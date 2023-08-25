@@ -8,9 +8,17 @@
     text-align: center;
     margin-top: 25px;
     position: inherit;
+
+}
+.logo{
+    position: absolute;
+    width: 2000px;
+    height: 500px;
+    left: -50px;
+    top: 1000px;
 }
 .titulo{
-    font-size: 10px;
+    font-size: 50px;
     color: rgb(146, 83, 204);
     margin-bottom: 7px;
     text-align: center;
@@ -18,8 +26,8 @@
 
 @media screen and (min-width: 825px){
     .Imagem{
-        border: 3px solid beige;
-        width: 100px!important;
-        height: 80px!important;
+        border: 3px solid yellow;
+        width: 200px!important;
+        height: 180px!important;
     }
 }

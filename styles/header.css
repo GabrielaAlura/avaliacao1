@@ -57,13 +57,14 @@
 
 .titulo__cabecalho{
     display: none;
+    font-style: italic;
 }
 
 @media screen and (min-width: 825px){
     .titulo__cabecalho{
         font-size: 30px;
         font-family: var(--font-secundaria);
-        color: paleturquoise;
+        color: black;
         display: block;
 }
 }
